@@ -10,6 +10,8 @@ Roll No: 04102213024
 Project: OCR Receipt Scanner
 Course: Introduction to AI
 
+
+
 Project Description
 This project is an AI-based OCR (Optical Character Recognition) system that extracts text from receipt images and converts it into a structured, readable format.
 
