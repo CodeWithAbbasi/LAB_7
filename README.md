@@ -47,7 +47,3 @@ Streamlit / Jupyter Notebook (for interface or execution)
 Result
 The system successfully converts receipt images into editable digital text, reducing manual effort and improving efficiency in data entry tasks.
 
-Author
-Ammara Akhtar
-Roll No: 04102213008
-Course: Introduction to AI
