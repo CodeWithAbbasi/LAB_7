@@ -5,9 +5,12 @@ OCR Receipt Scanner
 To automate receipt text extraction using AI and reduce manual work in digital record keeping.
 
 📬 Author
-Anas MAzhar Abbasi 
+Anas Mazhar Abbasi 
+
 Roll No: 04102213024
+
 Project: OCR Receipt Scanner
+
 Course: Introduction to AI
 
 
